@@ -1,0 +1,2 @@
+# Desktop Frontend
+This project's scope is much larger than just running scripts in a shell. It will have a full desktop GUI to easily select parameters for creating a PAW. With a few simple clicks, a full PAW can be created. This will be worked on when the core components of the project are complete.
